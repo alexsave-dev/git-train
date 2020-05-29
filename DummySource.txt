@@ -14,6 +14,8 @@ public class Dummy {
         System.out.println("The hotfix line");
 
         System.out.println("Rebase change 1");
+
+        System.out.println("Rebase change 2");
     }
 
 }
