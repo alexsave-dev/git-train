@@ -8,6 +8,8 @@ public class Dummy {
         System.out.println("Line modified remotely");
 
         System.out.println("The line added directly on github");
+
+        System.out.println("The hotfix line");
     }
 
 }
