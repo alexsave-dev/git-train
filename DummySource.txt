@@ -3,6 +3,8 @@ public class Dummy {
     public static void main(String[] args) {
         System.out.println("The first line");
 
+        System.out.println("Hotfix modified the second line");
+
         System.out.println("Master modified the second line");
 
         System.out.println("Line modified remotely");
