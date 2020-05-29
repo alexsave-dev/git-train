@@ -5,7 +5,7 @@ public class Dummy {
 
         System.out.println("The second line");
 
-        System.out.println("The line modified locally");
+        System.out.println("Line modified remotely");
 
         System.out.println("The line added directly on github");
     }
