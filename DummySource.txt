@@ -6,6 +6,8 @@ public class Dummy {
         System.out.println("The second line");
 
         System.out.println("The third line");
+
+        System.out.println("The fourth line");
     }
 
 }
